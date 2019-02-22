@@ -42,7 +42,7 @@ a.skip{
 
 
 a.skip:focus{
-  background: white;
+  background: #caaedf;
   top: -20px;
   border: 1px solid black;
 }
