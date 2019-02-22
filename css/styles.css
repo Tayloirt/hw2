@@ -2,6 +2,10 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+body{
+  margin-top: 40px;
+    background-color:#ebd1ff;
+}
 
 .topnav {
   overflow: hidden;
@@ -25,4 +29,19 @@ body {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+.bios img{
+  width: 250px;
+
+}
+
+.conferenceImages img{
+  width: 250px;
+
+}
+.mainImage img{
+  
+  width: 700px;
+  
 }
